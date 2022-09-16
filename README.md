@@ -193,13 +193,13 @@ The Regular user can perform the user functions and the Admin users can only per
 
 ### User Functions
 
-![Alt text](./diagrams/Application-Flow-User.png?raw=true "User Flow")
+![Alt text](diagrams/Application-Flow-User.png?raw=true "User Flow")
 
 <br/>
 
 ### Admin Functions
 
-![Alt text](./diagrams/Application-Flow-Admin.png?raw=true "Admin Flow")
+![Alt text](diagrams/Application-Flow-Admin.png?raw=true "Admin Flow")
 
 <br/>
 
@@ -252,16 +252,16 @@ The Regular user can perform the user functions and the Admin users can only per
 
 #### **Signon Screen**
 
-![Alt text](./diagrams/Signon-Screen.png?raw=true "Signon Screen")
+![Alt text](diagrams/Signon-Screen.png?raw=true "Signon Screen")
 
 
 #### **Main Menu**
 
-![Alt text](./diagrams/Main-Menu.png?raw=true "Main Menu")
+![Alt text](diagrams/Main-Menu.png?raw=true "Main Menu")
 
 #### **Admin Menu**
 
-![Alt text](./diagrams/Admin-Menu.png?raw=true "Admin Menu")
+![Alt text](diagrams/Admin-Menu.png?raw=true "Admin Menu")
 
 <br/>
 
